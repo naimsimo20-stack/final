@@ -31,7 +31,7 @@ export default function Location() {
               allowFullScreen={true}
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-            </iframe>
+            />
           
           </div>
 
